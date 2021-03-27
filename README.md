@@ -1,0 +1,1 @@
+The Bytus utility token is backed by Ethereum and is the medium of exchange in the Bytus ecosystem. The token will represent the user’s channel width i.e. the higher the number of tokens a user has the more transactions they will be able to make in a specified time.
